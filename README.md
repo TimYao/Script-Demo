@@ -4,8 +4,13 @@ Various implementations alone build script function demo.
 
 >node-construction
 
-    1.deletefile.jsæ„å»ºæ¸…é™¤ï¼Œå‹ç¼©æŒ‡å®šæ–‡ä»¶
+    1.deletefile.js¹¹½¨Çå³ı£¬Ñ¹ËõÖ¸¶¨ÎÄ¼ş
 
 >zepto
- 
-    1.zepto_fun.jså®ç°zeptoæ²¡æœ‰çš„æ–¹æ³•
+
+    1.zepto_fun.jsÊµÏÖzeptoÃ»ÓĞµÄ·½·¨
+
+>jquery
+
+    1.jquery-browser.js¶ÀÁ¢³öjqueryä¯ÀÀÆ÷¼ø¶¨ $.browser
+
