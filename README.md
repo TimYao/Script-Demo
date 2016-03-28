@@ -12,5 +12,5 @@ Various implementations alone build script function demo.
 
 >jquery
 
-    1.jquery-browser.js独立出jquery浏览器鉴定 $.browser
+    1.jquery-version.js独立出jquery浏览器鉴定 $.browser
 
